@@ -1,6 +1,10 @@
 # There is mine compact dotfiles
 guys, there is MINE dotfiles. DO NOT MAKE PR, PLEASE.
 
+
+https://github.com/user-attachments/assets/6b1aa878-46c8-45e0-8c1a-65041b9dc774
+
+
 ## installation
 I'll create **install.sh** soon. maybe tomorrow? next week? in month? idk =)
 
