@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/072acae5-b4a5-4eae-b86f-d7a735b91442)
 # There is mine compact dotfiles
 guys, there is MINE dotfiles. DO NOT MAKE PR, PLEASE.
 
