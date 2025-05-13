@@ -10,6 +10,7 @@ I'll create **install.sh** soon. maybe tomorrow? next week? in month? idk =)
 * fish
 * kitty
 * waybar
+* swaync
 * albert launcher
 
 
@@ -18,12 +19,6 @@ I'll create **install.sh** soon. maybe tomorrow? next week? in month? idk =)
 **so, start with**
 ```bash
 $ cp .config /home/$USER/.config/
-```
-
-**link default waybar path to *.config***
-```bash
-$ rm -r /etc/xdg/waybar/* # if waybar was started once
-$ ln -s /home/$USER/.config/waybar/ /etc/xdg/waybar/
 ```
 
 **copy albert launcher config to albert's themes destination**
